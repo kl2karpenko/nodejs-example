@@ -1,0 +1,17 @@
+{
+  "name": "start_node",
+  "version": "0.0.1",
+  "description": "Project to learn nodeJS",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/kl2_karpenko/mobile-app/src"
+  },
+  "scripts": {
+    "start_server": "node server.js"
+  },
+  "author": "Karpenko Lilya",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}

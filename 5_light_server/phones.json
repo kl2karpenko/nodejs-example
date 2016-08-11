@@ -1,8 +1,12 @@
 {
-  "users": [
+  "phones": [
     {
       "name": "Lily",
-      "password": "fvdbrtbtrnrn"
+      "number": "0504144151"
+    },
+    {
+      "name": "Lily",
+      "number": "0934032379"
     }
   ]
 }

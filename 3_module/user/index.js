@@ -1,5 +1,7 @@
 var log = require('../logger')(module);
 
+console.log(module, 'User.index');
+
 // >> module << - is the var that describes the current module
 
 // id: name or path to the module,

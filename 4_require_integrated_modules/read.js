@@ -4,7 +4,7 @@ var fs = require('fs');
 // Считывание содержимого файла в память
 
 // works async
-fs.readFile('work_with_files/example_log.txt', function (err, logData) {
+fs.readFile('example_log.txt', function (err, logData) {
 
 	// Если произошла ошибка, то мы генерируем исключение,
 	// и работа приложения завершается
@@ -15,3 +15,9 @@ fs.readFile('work_with_files/example_log.txt', function (err, logData) {
 
 	console.log(text);
 });
+
+var ar = [1, 2,3 ,4 ];
+
+for (var i = 0; i < ar.length; i++) {
+	console.log(i);
+}
